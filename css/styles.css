@@ -4,6 +4,9 @@
 
 #body-contactus label{
     font-size: 0.8em;
+    color:#3f3f3f;
+}
+#body-contactus form input::placeholder{
     color:darkgray;
 }
 
